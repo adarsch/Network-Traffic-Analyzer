@@ -13,6 +13,7 @@ A professional-grade networking tool built with **Python** and **Scapy** to moni
 * **Hardware-Specific Monitoring:** Configured for high-performance interfaces like Intel(R) Wi-Fi 6 AX201.
 * **Time-Stamped Logging:** Every captured packet includes a precise system timestamp for forensic analysis.
 * **Robust Error Handling:** Built-in protection against malformed packets and permission errors.
+* **SQL Injection Scanner:** An advanced tool to detect database vulnerabilities using multiple heuristic payloads.
 
 ### 🛠️ Technical Stack
 * **Language:** Python 3.13
